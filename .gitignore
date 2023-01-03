@@ -1,0 +1,16 @@
+**/.DS_Store
+/.idea
+**/__pycache__
+
+# Dataset is too large to be uploaded to git
+processed_data/*.csv
+raw_data/
+./original.csv
+
+# Test generated files
+processed_data/tests/*.png
+
+# Nohup redirecteed output
+**/nohup.out
+*.h5
+*.png
