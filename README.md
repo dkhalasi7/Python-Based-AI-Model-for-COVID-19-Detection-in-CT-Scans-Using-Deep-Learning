@@ -1,4 +1,4 @@
-# ECS 171 Group Project - CT Scan (COVID-19)
+CT Scan (COVID-19)
 ## Repository Guidelines
 
 ### Directory Structure
